@@ -23,6 +23,4 @@ This is my home note.
 
 This is the URL of my Website
 
-https://6620c9022b5122126b6c4f82--tangerine-druid-a879f8.netlify.app/
-
-
+[https://tangerine-druid-a879f8.netlify.app](https://tangerine-druid-a879f8.netlify.app/)
