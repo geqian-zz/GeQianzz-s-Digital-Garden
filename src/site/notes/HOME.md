@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HOME/","tags":["gardenEntry"]}
+{"aliases":null,"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -23,4 +23,4 @@ This is my home note.
 
 This is the URL of my Website
 
-[https://tangerine-druid-a879f8.netlify.app](https://tangerine-druid-a879f8.netlify.app/)
+https://geqianzz.netlify.app/
